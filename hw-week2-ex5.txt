@@ -1,0 +1,8 @@
+1. How do you see the files changed within each commit from git log?
+Use gitlog --stat
+ 
+2. How do you see the contents of what changed within each file from the git log?
+Use git log --patch
+
+3. What does HEAD refer to in the context of git?
+It is a pointer to the last commit made.
